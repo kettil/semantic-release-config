@@ -5,6 +5,8 @@
 ![Release](https://github.com/kettil/semantic-release-config/workflows/Release/badge.svg)
 ![GitHub](https://img.shields.io/github/license/kettil/semantic-release-config)
 
+⚠️ The project has moved to a [new repository](https://github.com/kettil/ts-toolbox/tree/main/packages/semantic-release-config) ⚠️
+
 The library contains the semantic-release configuration.
 
 ## Installation
